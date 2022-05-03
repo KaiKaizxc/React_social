@@ -2,8 +2,7 @@ import React from 'react'
 import { Box, Typography } from '@mui/material';
 import Avatar from '@mui/material/Avatar';
 import AvatarGroup from '@mui/material/AvatarGroup';
-import ImageList from '@mui/material/ImageList';
-import ImageListItem from '@mui/material/ImageListItem';
+
 
 const Rightbar = () => {
   return (
